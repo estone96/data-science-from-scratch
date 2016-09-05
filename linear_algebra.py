@@ -1,4 +1,5 @@
 from functools import partial
+from functools import reduce
 import math
 
 def vector_add(v, w):
